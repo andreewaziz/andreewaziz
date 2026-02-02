@@ -1,9 +1,9 @@
-# AndrewZ
+
 <p align="center">
   <img src="Typing GIF by MOODMAN - Find & Share on GIPHY.gif" width="400" />
 </p>
 
-" Hello World , I'm Andrew "
+# " Hello World , I'm Andrew "
 # 💫 About Me:
 I'm a human who turns coffee into code ☕💻  <br>I break things, Google the error, and somehow fix them.<br>I believe "it works" count as a feature.<br><br>- 🧠 Learning new stuff daily  <br>- 🛠️ Building random but cool projects  <br>- 🐛 Professional bug creator (and destroyer)<br>- 🚀 Shipping projects and bad jokes  <br><br>Welcome to my GitHub — chaos, progress, and commits.<br>Feel free to judge my commits.😌
 
