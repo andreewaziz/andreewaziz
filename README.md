@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Typing GIF by MOODMAN - Find & Share on GIPHY.gif" width="800" />
+  <img src="Typing GIF by MOODMAN - Find & Share on GIPHY.gif" width="1000" />
 </p>
 
 # " Hello World , I'm Andrew "
